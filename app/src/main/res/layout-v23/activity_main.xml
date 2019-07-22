@@ -38,6 +38,7 @@
             android:textSize="20sp"
             android:background="@drawable/btn_ask"
             android:text="@string/ask"
+            android:foreground="?android:attr/selectableItemBackground"
             android:layout_centerHorizontal="true"
             android:textColor="#ffffff" />
 
